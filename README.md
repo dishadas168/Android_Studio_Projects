@@ -3,22 +3,15 @@ Android projects from Udemy- The Complete Android Oreo Developer Course
 
 Projects List:  
 
-**1. Image Switcher-      Utility: Change image on screen everytime user taps on it. Multiple images used.**  \
-**2. Currency Converter-  Utility: Converts currency from INR to USD**  \\
+**1. Image Switcher-      Utility: Change image on screen everytime user taps on it. Multiple images used.**  
+**2. Currency Converter-  Utility: Converts currency from INR to USD**  
 **3. Higher OR Lower-     Game: User guesses a random number**  
-\
 **4. Number Shapes-       Utility: Check if a user-entered number is Triangular or Square or both**  
-\
 5. Layout App-          Layout Exercise  
-
 6. Animations-          Experimenting with animations on an image  
-
 **7. Connect 3-           Game: Play Connect 3 (two players)**  
-
 8. Video-               Experimenting with embedding video on activity  
-
 **9. Audio-               Utility: Experimenting with embedding audio on activity along with start, stop, pause functions**  
-
 **10. Basic Phrases-      Utility: Play translated french audio when user taps on multiple English phrases**  
 11. List View Demo-     Experimenting with List View Layout  
 **12. Times Table-        Utility: Display times table upto 20 on a List View Layout**  
