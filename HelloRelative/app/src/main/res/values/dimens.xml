@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_layout_height">80sp</dimen><dimen name="count_size">303dp</dimen>
+    <dimen name="counter_layout_height">303dp</dimen>
+    <dimen name="counter_text_size">160sp</dimen>
+</resources>

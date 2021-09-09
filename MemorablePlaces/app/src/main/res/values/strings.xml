@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Memorable Places</string>
+    <string name="title_activity_new_location">Map</string>
+    <string name="title_activity_saved_location">Map</string>
+</resources>

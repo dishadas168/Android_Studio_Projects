@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/simon" android:title="Simon" android:icon="@drawable/ic_wifi_black_24dp"></item>
+    <item android:id="@+id/andrew" android:title="Andrew" android:icon="@drawable/ic_attach_file_black_24dp"></item>
+    <item android:id="@+id/harry" android:title="Harry" android:icon="@drawable/ic_control_point_black_24dp"></item>
+    <item android:id="@+id/liam" android:title="Liam" android:icon="@drawable/ic_lightbulb_outline_black_24dp"></item>
+    <item android:id="@+id/louise" android:title="Louise" android:icon="@drawable/ic_attach_money_black_24dp"></item>
+</menu>

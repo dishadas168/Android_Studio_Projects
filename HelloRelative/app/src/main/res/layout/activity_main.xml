@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:baselineAligned="false"
+    android:orientation="vertical"
+    android:padding="10sp"
+    app:layout_constraintHorizontal_chainStyle="spread_inside"
+    tools:context="com.creation.disha.hellorelative.MainActivity">
+
+    <Button
+        android:id="@+id/button_toast"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/button_layout_height"
+        android:layout_weight="1"
+        android:background="@color/colorPrimary"
+        android:onClick="showToast"
+        android:text="@string/button_label_toast"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <TextView
+        android:id="@+id/show_count"
+        android:layout_width="270dp"
+        android:layout_height="216dp"
+        android:layout_alignTop="@+id/button_toast"
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_toEndOf="@+id/button_toast"
+        android:layout_weight="2"
+        android:background="#FFFF00"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="@string/count_initial_value"
+        android:textColor="@color/colorPrimary"
+        android:textSize="@dimen/counter_text_size"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_toast" />
+
+    <Button
+        android:id="@+id/button_count"
+        android:layout_width="88dp"
+        android:layout_height="@dimen/button_layout_height"
+        android:layout_alignStart="@+id/button_toast"
+        android:layout_below="@+id/button_toast"
+        android:layout_weight="1"
+        android:background="@color/colorPrimary"
+        android:onClick="countUp"
+        android:text="@string/button_label_count"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/button_toast"
+        tools:layout_editor_absoluteX="280dp" />
+</android.support.constraint.ConstraintLayout>
