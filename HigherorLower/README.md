@@ -5,4 +5,4 @@ after guessing. The only hint being provided to the user is
 whether their guessed number is higher or lower than the correct  
 number.  
 
- ![higherLower](HigherorLower/higherLower.gif)
+ ![higherLower](higherLower.gif)
