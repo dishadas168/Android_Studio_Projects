@@ -2,7 +2,7 @@
 Android projects from Udemy- The Complete Android Oreo Developer Course  
 
 **Projects List:**        
-1. Currency Converter (Utility)  
+1. Currency Converter (Utility) [Currency Converter](Currency Converter/README.md) 
 2. Higher OR Lower (Game)       
 3. Number Shapes (Utility)    
 4. Connect 3 (Game)         
