@@ -2,9 +2,9 @@
 Android projects from Udemy- The Complete Android Oreo Developer Course  
 
 **Projects List:**    
-1. Image Switcher (Utility)     :     Change image on screen everytime user taps on it. Multiple images used.  
-2. Currency Converter (Utility) :     Converts currency from INR to USD  
-3. Higher OR Lower (Game)       :     User guesses a random number  
+1. Image Switcher (Utility)     :     + Change image on screen everytime user taps on it. Multiple images used.  
+2. Currency Converter (Utility) :     + Converts currency from INR to USD  
+3. Higher OR Lower (Game)       :     + User guesses a random number  
 4. Number Shapes (Utility)      :     Check if a user-entered number is Triangular or Square or both  
 5. Connect 3 (Game)             :     Play Connect 3 (two players)  
 6. Basic Phrases (Utility)      :     Play translated french audio when user taps on multiple English phrases  
